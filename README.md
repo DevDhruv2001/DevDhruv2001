@@ -5,5 +5,4 @@
 - 🤔 I’m looking for help with making a GitHub project.
 - 💬 Ask me about my programming experience.
 - 📫 How to reach me: ddhruv@ucsc.edu 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to play basketball!
